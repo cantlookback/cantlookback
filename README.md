@@ -1,4 +1,4 @@
-# Wecome to Can'tLookBack profile!
+# Wecome to Can'tLookBack's profile!
 
 <p align="center">
 <img src="https://badges.pufler.dev/visits/cantlookback/cantlookback"/> 
