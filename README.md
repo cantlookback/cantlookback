@@ -18,5 +18,3 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cantlookback&theme=dark" />
   </a>
 </div>
-
-asd
