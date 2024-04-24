@@ -2,9 +2,9 @@
 
 <p align="center">
 <img src="https://badges.pufler.dev/visits/cantlookback/cantlookback"/> 
-<img src="https://badges.pufler.dev/years/cantlookback"/>
+<!-- <img src="https://badges.pufler.dev/years/cantlookback"/>
 <img src="https://badges.pufler.dev/repos/cantlookback"/>
-<img src="https://badges.pufler.dev/commits/monthly/cantlookback" />
+<img src="https://badges.pufler.dev/commits/monthly/cantlookback" /> -->
 </p>
 
 <div align="center">
